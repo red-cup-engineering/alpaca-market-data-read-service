@@ -9,6 +9,6 @@
     "./src/historical-bars.mjs": "./src/historical-bars.mjs"
   },
   "dependencies": {
-    "@red-cup-engineering/semantic-content-identify-service": "0.2.2"
+    "@red-cup-engineering/semantic-content-identify-service": "workspace:*"
   }
 }
