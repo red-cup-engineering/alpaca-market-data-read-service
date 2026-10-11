@@ -1,5 +1,5 @@
 {
-  "name": "@rsc-quiescent/alpaca-market-data-read-service",
+  "name": "@red-cup-engineering/alpaca-market-data-read-service",
   "version": "0.1.2",
   "private": true,
   "type": "module",
