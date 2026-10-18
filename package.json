@@ -6,8 +6,7 @@
   "description": "Read-only Alpaca historical market-data provider for causal strategy inputs.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-web-engineering-services-section.git",
-    "directory": "services/web-platform-services-section/services/web2-platform-services-section/services/web2-financial-platform-services-section/services/web2-financial-brokerage-platform-services-section/services/alpaca-services-section/services/alpaca-market-data-read-service"
+    "url": "git+https://github.com/red-cup-engineering/alpaca-market-data-read-service.git"
   },
   "exports": {
     ".": "./src/historical-bars.mjs",
